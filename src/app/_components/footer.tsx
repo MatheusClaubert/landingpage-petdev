@@ -67,7 +67,7 @@ export function Footer() {
                         <p className='mb-4'>Cuidando do seu melhor amigo com amor e dedicação.</p>
                         <a
                             target="_blank"
-                            href={`https://wa.me/99984612190?text=Olá, vi no site sobre os serviços e gostaria de mais informações.`}
+                            href={`https://wa.me/5599984612190?text=Olá, vi no site sobre os serviços e gostaria de mais informações.`}
                             className='bg-green-500 px-4 py-2 rounded-md'
                         >
                             Contato via WhatsApp

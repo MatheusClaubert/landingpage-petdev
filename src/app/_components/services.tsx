@@ -113,7 +113,7 @@ export function Services() {
 
                                                 <a
                                                     target="_blank"
-                                                    href={`https://wa.me/99984612190?text=${encodeURIComponent(item.title)}`}
+                                                    href={`https://wa.me/5599984612190?text=${encodeURIComponent(item.title)}`}
                                                     className="flex items-center justify-center gap-2 hover:bg-amber-600 transition-colors duration-200 bg-[#22c55e] text-white rounded-lg px-4 py-2 text-sm"
                                                 >
                                                     <WhatsappLogoIcon className="w-5 h-5" />
