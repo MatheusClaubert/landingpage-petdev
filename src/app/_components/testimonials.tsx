@@ -34,12 +34,9 @@ const testimonials = [
 
 export function Testimonials() {
     const [emblaRef, emblaApi] = useEmblaCarousel({
-        loop: true,
-    })
+        loop: false,
 
-    useEffect(() => {
-        Aos.init({ duration: 800, once: true })
-    }, [])
+    })
 
     function scrollPrev() {
         emblaApi?.scrollPrev()
